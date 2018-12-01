@@ -1,0 +1,767 @@
+From 839f759f40caec3f137535204a8836d24e77fe47 Mon Sep 17 00:00:00 2001
+From: quinn <quinn>
+Date: Sun, 21 Jan 2007 14:40:08 +0000
+Subject: starting to organize beryl-extra-artwork
+
+---
+ BerylBarrels/BeryBarrel2.png             | Bin 26777 -> 0 bytes
+ BerylBarrels/BerylBarrel1.png            | Bin 48282 -> 0 bytes
+ Bubbles/bluebubble.png                   | Bin 10737 -> 0 bytes
+ Bubbles/bubble1.png                      | Bin 2992 -> 0 bytes
+ Bubbles/bubble2.png                      | Bin 3496 -> 0 bytes
+ Bubbles/bubble3.png                      | Bin 3091 -> 0 bytes
+ Bubbles/greenbubble.png                  | Bin 11340 -> 0 bytes
+ Bubbles/redbubble.png                    | Bin 9430 -> 0 bytes
+ Bubbles/yellowbubble.png                 | Bin 10322 -> 0 bytes
+ Clover/clover2.png                       | Bin 39633 -> 0 bytes
+ Clover/clover3.png                       | Bin 39825 -> 0 bytes
+ Clover/clover5.png                       | Bin 146302 -> 0 bytes
+ Clover/clover6.png                       | Bin 149580 -> 0 bytes
+ Coffee/Cup'oCoffee.png                   | Bin 13989 -> 0 bytes
+ Egg/EasterEgg.png                        | Bin 11713 -> 0 bytes
+ FallLeafFlake/leaf1.png                  | Bin 13061 -> 0 bytes
+ FallLeafFlake/leaf2.png                  | Bin 7976 -> 0 bytes
+ Flowers/PurplePansy.png                  | Bin 28961 -> 0 bytes
+ Flowers/RedHibuscus.png                  | Bin 22441 -> 0 bytes
+ Flowers/RedPansy.png                     | Bin 16412 -> 0 bytes
+ Flowers/VanillaBlossom.png               | Bin 16134 -> 0 bytes
+ Flowers/VioletPansy.png                  | Bin 33948 -> 0 bytes
+ Flowers/YellowPansy.png                  | Bin 30993 -> 0 bytes
+ Flowers/daisy.png                        | Bin 15375 -> 0 bytes
+ Flowers/danelion.png                     | Bin 92727 -> 0 bytes
+ Flowers/rose1.png                        | Bin 87675 -> 0 bytes
+ Flowers/rose4.png                        | Bin 25291 -> 0 bytes
+ Flowers/rosered.png                      | Bin 9565 -> 0 bytes
+ Flowers/yellowRose2.png                  | Bin 41816 -> 0 bytes
+ Food/PIzza1.png                          | Bin 9496 -> 0 bytes
+ Food/Watermelon2.png                     | Bin 8320 -> 0 bytes
+ Food/Watermelon3.png                     | Bin 9750 -> 0 bytes
+ Food/mushroom1.png                       | Bin 14429 -> 0 bytes
+ Food/mushroom2.png                       | Bin 21837 -> 0 bytes
+ Food/mushroom3.png                       | Bin 20090 -> 0 bytes
+ Food/mushroom4.png                       | Bin 24374 -> 0 bytes
+ Food/mushroom5.png                       | Bin 20013 -> 0 bytes
+ Food/mushroom6.png                       | Bin 17021 -> 0 bytes
+ Food/watermelon1.png                     | Bin 28884 -> 0 bytes
+ Marbles/Marble1.png                      | Bin 9999 -> 0 bytes
+ Marbles/marble2.png                      | Bin 182505 -> 0 bytes
+ Marbles/marble3.png                      | Bin 32742 -> 0 bytes
+ Marbles/marble4.png                      | Bin 28505 -> 0 bytes
+ MilkWeed/milkweedseed.png                | Bin 40043 -> 0 bytes
+ RedHeartFlake/heart1.png                 | Bin 11680 -> 0 bytes
+ SnowFlakes/snow11.png                    | Bin 1801 -> 0 bytes
+ SnowFlakes/snow12.png                    | Bin 3979 -> 0 bytes
+ SnowFlakes/snowflake1.png                | Bin 5166 -> 0 bytes
+ SnowFlakes/snowflake10.png               | Bin 6649 -> 0 bytes
+ SnowFlakes/snowflake13.png               | Bin 6385 -> 0 bytes
+ SnowFlakes/snowflake14.png               | Bin 5412 -> 0 bytes
+ SnowFlakes/snowflake15.png               | Bin 4696 -> 0 bytes
+ SnowFlakes/snowflake2.png                | Bin 6670 -> 0 bytes
+ SnowFlakes/snowflake3.png                | Bin 6059 -> 0 bytes
+ SnowFlakes/snowflake4.png                | Bin 6937 -> 0 bytes
+ SnowFlakes/snowflake5.png                | Bin 9035 -> 0 bytes
+ SnowFlakes/snowflake6.png                | Bin 3287 -> 0 bytes
+ SnowFlakes/snowflake8.png                | Bin 6610 -> 0 bytes
+ SnowFlakes/snowflake9.png                | Bin 9471 -> 0 bytes
+ SnowImages/BerylBarrels/BeryBarrel2.png  | Bin 0 -> 26777 bytes
+ SnowImages/BerylBarrels/BerylBarrel1.png | Bin 0 -> 48282 bytes
+ SnowImages/Bubbles/bluebubble.png        | Bin 0 -> 10737 bytes
+ SnowImages/Bubbles/bubble1.png           | Bin 0 -> 2992 bytes
+ SnowImages/Bubbles/bubble2.png           | Bin 0 -> 3496 bytes
+ SnowImages/Bubbles/bubble3.png           | Bin 0 -> 3091 bytes
+ SnowImages/Bubbles/greenbubble.png       | Bin 0 -> 11340 bytes
+ SnowImages/Bubbles/redbubble.png         | Bin 0 -> 9430 bytes
+ SnowImages/Bubbles/yellowbubble.png      | Bin 0 -> 10322 bytes
+ SnowImages/Clover/clover2.png            | Bin 0 -> 39633 bytes
+ SnowImages/Clover/clover3.png            | Bin 0 -> 39825 bytes
+ SnowImages/Clover/clover5.png            | Bin 0 -> 146302 bytes
+ SnowImages/Clover/clover6.png            | Bin 0 -> 149580 bytes
+ SnowImages/Coffee/Cup'oCoffee.png        | Bin 0 -> 13989 bytes
+ SnowImages/Egg/EasterEgg.png             | Bin 0 -> 11713 bytes
+ SnowImages/FallLeafFlake/leaf1.png       | Bin 0 -> 13061 bytes
+ SnowImages/FallLeafFlake/leaf2.png       | Bin 0 -> 7976 bytes
+ SnowImages/Flowers/PurplePansy.png       | Bin 0 -> 28961 bytes
+ SnowImages/Flowers/RedHibuscus.png       | Bin 0 -> 22441 bytes
+ SnowImages/Flowers/RedPansy.png          | Bin 0 -> 16412 bytes
+ SnowImages/Flowers/VanillaBlossom.png    | Bin 0 -> 16134 bytes
+ SnowImages/Flowers/VioletPansy.png       | Bin 0 -> 33948 bytes
+ SnowImages/Flowers/YellowPansy.png       | Bin 0 -> 30993 bytes
+ SnowImages/Flowers/daisy.png             | Bin 0 -> 15375 bytes
+ SnowImages/Flowers/danelion.png          | Bin 0 -> 92727 bytes
+ SnowImages/Flowers/rose1.png             | Bin 0 -> 87675 bytes
+ SnowImages/Flowers/rose4.png             | Bin 0 -> 25291 bytes
+ SnowImages/Flowers/rosered.png           | Bin 0 -> 9565 bytes
+ SnowImages/Flowers/yellowRose2.png       | Bin 0 -> 41816 bytes
+ SnowImages/Food/PIzza1.png               | Bin 0 -> 9496 bytes
+ SnowImages/Food/Watermelon2.png          | Bin 0 -> 8320 bytes
+ SnowImages/Food/Watermelon3.png          | Bin 0 -> 9750 bytes
+ SnowImages/Food/mushroom1.png            | Bin 0 -> 14429 bytes
+ SnowImages/Food/mushroom2.png            | Bin 0 -> 21837 bytes
+ SnowImages/Food/mushroom3.png            | Bin 0 -> 20090 bytes
+ SnowImages/Food/mushroom4.png            | Bin 0 -> 24374 bytes
+ SnowImages/Food/mushroom5.png            | Bin 0 -> 20013 bytes
+ SnowImages/Food/mushroom6.png            | Bin 0 -> 17021 bytes
+ SnowImages/Food/watermelon1.png          | Bin 0 -> 28884 bytes
+ SnowImages/Marbles/Marble1.png           | Bin 0 -> 9999 bytes
+ SnowImages/Marbles/marble2.png           | Bin 0 -> 182505 bytes
+ SnowImages/Marbles/marble3.png           | Bin 0 -> 32742 bytes
+ SnowImages/Marbles/marble4.png           | Bin 0 -> 28505 bytes
+ SnowImages/MilkWeed/milkweedseed.png     | Bin 0 -> 40043 bytes
+ SnowImages/RedHeartFlake/heart1.png      | Bin 0 -> 11680 bytes
+ SnowImages/SnowFlakes/snow11.png         | Bin 0 -> 1801 bytes
+ SnowImages/SnowFlakes/snow12.png         | Bin 0 -> 3979 bytes
+ SnowImages/SnowFlakes/snowflake1.png     | Bin 0 -> 5166 bytes
+ SnowImages/SnowFlakes/snowflake10.png    | Bin 0 -> 6649 bytes
+ SnowImages/SnowFlakes/snowflake13.png    | Bin 0 -> 6385 bytes
+ SnowImages/SnowFlakes/snowflake14.png    | Bin 0 -> 5412 bytes
+ SnowImages/SnowFlakes/snowflake15.png    | Bin 0 -> 4696 bytes
+ SnowImages/SnowFlakes/snowflake2.png     | Bin 0 -> 6670 bytes
+ SnowImages/SnowFlakes/snowflake3.png     | Bin 0 -> 6059 bytes
+ SnowImages/SnowFlakes/snowflake4.png     | Bin 0 -> 6937 bytes
+ SnowImages/SnowFlakes/snowflake5.png     | Bin 0 -> 9035 bytes
+ SnowImages/SnowFlakes/snowflake6.png     | Bin 0 -> 3287 bytes
+ SnowImages/SnowFlakes/snowflake8.png     | Bin 0 -> 6610 bytes
+ SnowImages/SnowFlakes/snowflake9.png     | Bin 0 -> 9471 bytes
+ SnowImages/UbuntuFlake/ubuntuFlake.png   | Bin 0 -> 6835 bytes
+ SnowImages/butterfly/butterfly.png       | Bin 0 -> 13920 bytes
+ SnowImages/pinWheel/pinwheel.png         | Bin 0 -> 63675 bytes
+ SnowImages/wreath/wreath1.png            | Bin 0 -> 12892 bytes
+ UbuntuFlake/ubuntuFlake.png              | Bin 6835 -> 0 bytes
+ butterfly/butterfly.png                  | Bin 13920 -> 0 bytes
+ pinWheel/pinwheel.png                    | Bin 63675 -> 0 bytes
+ wreath/wreath1.png                       | Bin 12892 -> 0 bytes
+ 126 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 BerylBarrels/BeryBarrel2.png
+ delete mode 100644 BerylBarrels/BerylBarrel1.png
+ delete mode 100755 Bubbles/bluebubble.png
+ delete mode 100755 Bubbles/bubble1.png
+ delete mode 100755 Bubbles/bubble2.png
+ delete mode 100755 Bubbles/bubble3.png
+ delete mode 100755 Bubbles/greenbubble.png
+ delete mode 100755 Bubbles/redbubble.png
+ delete mode 100755 Bubbles/yellowbubble.png
+ delete mode 100755 Clover/clover2.png
+ delete mode 100755 Clover/clover3.png
+ delete mode 100755 Clover/clover5.png
+ delete mode 100755 Clover/clover6.png
+ delete mode 100644 Coffee/Cup'oCoffee.png
+ delete mode 100755 Egg/EasterEgg.png
+ delete mode 100755 FallLeafFlake/leaf1.png
+ delete mode 100755 FallLeafFlake/leaf2.png
+ delete mode 100644 Flowers/PurplePansy.png
+ delete mode 100644 Flowers/RedHibuscus.png
+ delete mode 100644 Flowers/RedPansy.png
+ delete mode 100644 Flowers/VanillaBlossom.png
+ delete mode 100644 Flowers/VioletPansy.png
+ delete mode 100644 Flowers/YellowPansy.png
+ delete mode 100755 Flowers/daisy.png
+ delete mode 100755 Flowers/danelion.png
+ delete mode 100755 Flowers/rose1.png
+ delete mode 100755 Flowers/rose4.png
+ delete mode 100644 Flowers/rosered.png
+ delete mode 100755 Flowers/yellowRose2.png
+ delete mode 100644 Food/PIzza1.png
+ delete mode 100644 Food/Watermelon2.png
+ delete mode 100644 Food/Watermelon3.png
+ delete mode 100644 Food/mushroom1.png
+ delete mode 100644 Food/mushroom2.png
+ delete mode 100644 Food/mushroom3.png
+ delete mode 100644 Food/mushroom4.png
+ delete mode 100644 Food/mushroom5.png
+ delete mode 100644 Food/mushroom6.png
+ delete mode 100644 Food/watermelon1.png
+ delete mode 100644 Marbles/Marble1.png
+ delete mode 100644 Marbles/marble2.png
+ delete mode 100644 Marbles/marble3.png
+ delete mode 100644 Marbles/marble4.png
+ delete mode 100755 MilkWeed/milkweedseed.png
+ delete mode 100755 RedHeartFlake/heart1.png
+ delete mode 100755 SnowFlakes/snow11.png
+ delete mode 100755 SnowFlakes/snow12.png
+ delete mode 100755 SnowFlakes/snowflake1.png
+ delete mode 100755 SnowFlakes/snowflake10.png
+ delete mode 100755 SnowFlakes/snowflake13.png
+ delete mode 100755 SnowFlakes/snowflake14.png
+ delete mode 100755 SnowFlakes/snowflake15.png
+ delete mode 100755 SnowFlakes/snowflake2.png
+ delete mode 100755 SnowFlakes/snowflake3.png
+ delete mode 100755 SnowFlakes/snowflake4.png
+ delete mode 100755 SnowFlakes/snowflake5.png
+ delete mode 100755 SnowFlakes/snowflake6.png
+ delete mode 100755 SnowFlakes/snowflake8.png
+ delete mode 100755 SnowFlakes/snowflake9.png
+ create mode 100644 SnowImages/BerylBarrels/BeryBarrel2.png
+ create mode 100644 SnowImages/BerylBarrels/BerylBarrel1.png
+ create mode 100755 SnowImages/Bubbles/bluebubble.png
+ create mode 100755 SnowImages/Bubbles/bubble1.png
+ create mode 100755 SnowImages/Bubbles/bubble2.png
+ create mode 100755 SnowImages/Bubbles/bubble3.png
+ create mode 100755 SnowImages/Bubbles/greenbubble.png
+ create mode 100755 SnowImages/Bubbles/redbubble.png
+ create mode 100755 SnowImages/Bubbles/yellowbubble.png
+ create mode 100755 SnowImages/Clover/clover2.png
+ create mode 100755 SnowImages/Clover/clover3.png
+ create mode 100755 SnowImages/Clover/clover5.png
+ create mode 100755 SnowImages/Clover/clover6.png
+ create mode 100644 SnowImages/Coffee/Cup'oCoffee.png
+ create mode 100755 SnowImages/Egg/EasterEgg.png
+ create mode 100755 SnowImages/FallLeafFlake/leaf1.png
+ create mode 100755 SnowImages/FallLeafFlake/leaf2.png
+ create mode 100644 SnowImages/Flowers/PurplePansy.png
+ create mode 100644 SnowImages/Flowers/RedHibuscus.png
+ create mode 100644 SnowImages/Flowers/RedPansy.png
+ create mode 100644 SnowImages/Flowers/VanillaBlossom.png
+ create mode 100644 SnowImages/Flowers/VioletPansy.png
+ create mode 100644 SnowImages/Flowers/YellowPansy.png
+ create mode 100755 SnowImages/Flowers/daisy.png
+ create mode 100755 SnowImages/Flowers/danelion.png
+ create mode 100755 SnowImages/Flowers/rose1.png
+ create mode 100755 SnowImages/Flowers/rose4.png
+ create mode 100644 SnowImages/Flowers/rosered.png
+ create mode 100755 SnowImages/Flowers/yellowRose2.png
+ create mode 100644 SnowImages/Food/PIzza1.png
+ create mode 100644 SnowImages/Food/Watermelon2.png
+ create mode 100644 SnowImages/Food/Watermelon3.png
+ create mode 100644 SnowImages/Food/mushroom1.png
+ create mode 100644 SnowImages/Food/mushroom2.png
+ create mode 100644 SnowImages/Food/mushroom3.png
+ create mode 100644 SnowImages/Food/mushroom4.png
+ create mode 100644 SnowImages/Food/mushroom5.png
+ create mode 100644 SnowImages/Food/mushroom6.png
+ create mode 100644 SnowImages/Food/watermelon1.png
+ create mode 100644 SnowImages/Marbles/Marble1.png
+ create mode 100644 SnowImages/Marbles/marble2.png
+ create mode 100644 SnowImages/Marbles/marble3.png
+ create mode 100644 SnowImages/Marbles/marble4.png
+ create mode 100755 SnowImages/MilkWeed/milkweedseed.png
+ create mode 100755 SnowImages/RedHeartFlake/heart1.png
+ create mode 100755 SnowImages/SnowFlakes/snow11.png
+ create mode 100755 SnowImages/SnowFlakes/snow12.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake1.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake10.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake13.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake14.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake15.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake2.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake3.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake4.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake5.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake6.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake8.png
+ create mode 100755 SnowImages/SnowFlakes/snowflake9.png
+ create mode 100755 SnowImages/UbuntuFlake/ubuntuFlake.png
+ create mode 100755 SnowImages/butterfly/butterfly.png
+ create mode 100755 SnowImages/pinWheel/pinwheel.png
+ create mode 100755 SnowImages/wreath/wreath1.png
+ delete mode 100755 UbuntuFlake/ubuntuFlake.png
+ delete mode 100755 butterfly/butterfly.png
+ delete mode 100755 pinWheel/pinwheel.png
+ delete mode 100755 wreath/wreath1.png
+
+diff --git a/BerylBarrels/BeryBarrel2.png b/BerylBarrels/BeryBarrel2.png
+deleted file mode 100644
+index 472f5d5..0000000
+Binary files a/BerylBarrels/BeryBarrel2.png and /dev/null differ
+diff --git a/BerylBarrels/BerylBarrel1.png b/BerylBarrels/BerylBarrel1.png
+deleted file mode 100644
+index c15475b..0000000
+Binary files a/BerylBarrels/BerylBarrel1.png and /dev/null differ
+diff --git a/Bubbles/bluebubble.png b/Bubbles/bluebubble.png
+deleted file mode 100755
+index 0abd095..0000000
+Binary files a/Bubbles/bluebubble.png and /dev/null differ
+diff --git a/Bubbles/bubble1.png b/Bubbles/bubble1.png
+deleted file mode 100755
+index d3d4b40..0000000
+Binary files a/Bubbles/bubble1.png and /dev/null differ
+diff --git a/Bubbles/bubble2.png b/Bubbles/bubble2.png
+deleted file mode 100755
+index 4c96b03..0000000
+Binary files a/Bubbles/bubble2.png and /dev/null differ
+diff --git a/Bubbles/bubble3.png b/Bubbles/bubble3.png
+deleted file mode 100755
+index 5da9ff0..0000000
+Binary files a/Bubbles/bubble3.png and /dev/null differ
+diff --git a/Bubbles/greenbubble.png b/Bubbles/greenbubble.png
+deleted file mode 100755
+index f8f3e3c..0000000
+Binary files a/Bubbles/greenbubble.png and /dev/null differ
+diff --git a/Bubbles/redbubble.png b/Bubbles/redbubble.png
+deleted file mode 100755
+index 1061281..0000000
+Binary files a/Bubbles/redbubble.png and /dev/null differ
+diff --git a/Bubbles/yellowbubble.png b/Bubbles/yellowbubble.png
+deleted file mode 100755
+index 1ed84d3..0000000
+Binary files a/Bubbles/yellowbubble.png and /dev/null differ
+diff --git a/Clover/clover2.png b/Clover/clover2.png
+deleted file mode 100755
+index 5a69436..0000000
+Binary files a/Clover/clover2.png and /dev/null differ
+diff --git a/Clover/clover3.png b/Clover/clover3.png
+deleted file mode 100755
+index f8989de..0000000
+Binary files a/Clover/clover3.png and /dev/null differ
+diff --git a/Clover/clover5.png b/Clover/clover5.png
+deleted file mode 100755
+index 775132c..0000000
+Binary files a/Clover/clover5.png and /dev/null differ
+diff --git a/Clover/clover6.png b/Clover/clover6.png
+deleted file mode 100755
+index 84facad..0000000
+Binary files a/Clover/clover6.png and /dev/null differ
+diff --git a/Coffee/Cup'oCoffee.png b/Coffee/Cup'oCoffee.png
+deleted file mode 100644
+index 8de6748..0000000
+Binary files a/Coffee/Cup'oCoffee.png and /dev/null differ
+diff --git a/Egg/EasterEgg.png b/Egg/EasterEgg.png
+deleted file mode 100755
+index a8c2bc2..0000000
+Binary files a/Egg/EasterEgg.png and /dev/null differ
+diff --git a/FallLeafFlake/leaf1.png b/FallLeafFlake/leaf1.png
+deleted file mode 100755
+index 94ef595..0000000
+Binary files a/FallLeafFlake/leaf1.png and /dev/null differ
+diff --git a/FallLeafFlake/leaf2.png b/FallLeafFlake/leaf2.png
+deleted file mode 100755
+index 584c2b3..0000000
+Binary files a/FallLeafFlake/leaf2.png and /dev/null differ
+diff --git a/Flowers/PurplePansy.png b/Flowers/PurplePansy.png
+deleted file mode 100644
+index d2b9803..0000000
+Binary files a/Flowers/PurplePansy.png and /dev/null differ
+diff --git a/Flowers/RedHibuscus.png b/Flowers/RedHibuscus.png
+deleted file mode 100644
+index f7b7fd3..0000000
+Binary files a/Flowers/RedHibuscus.png and /dev/null differ
+diff --git a/Flowers/RedPansy.png b/Flowers/RedPansy.png
+deleted file mode 100644
+index a129c8d..0000000
+Binary files a/Flowers/RedPansy.png and /dev/null differ
+diff --git a/Flowers/VanillaBlossom.png b/Flowers/VanillaBlossom.png
+deleted file mode 100644
+index 3d16a64..0000000
+Binary files a/Flowers/VanillaBlossom.png and /dev/null differ
+diff --git a/Flowers/VioletPansy.png b/Flowers/VioletPansy.png
+deleted file mode 100644
+index 28f8bf3..0000000
+Binary files a/Flowers/VioletPansy.png and /dev/null differ
+diff --git a/Flowers/YellowPansy.png b/Flowers/YellowPansy.png
+deleted file mode 100644
+index 60d0709..0000000
+Binary files a/Flowers/YellowPansy.png and /dev/null differ
+diff --git a/Flowers/daisy.png b/Flowers/daisy.png
+deleted file mode 100755
+index 15cd0b8..0000000
+Binary files a/Flowers/daisy.png and /dev/null differ
+diff --git a/Flowers/danelion.png b/Flowers/danelion.png
+deleted file mode 100755
+index f044202..0000000
+Binary files a/Flowers/danelion.png and /dev/null differ
+diff --git a/Flowers/rose1.png b/Flowers/rose1.png
+deleted file mode 100755
+index 3afd483..0000000
+Binary files a/Flowers/rose1.png and /dev/null differ
+diff --git a/Flowers/rose4.png b/Flowers/rose4.png
+deleted file mode 100755
+index 31a5a72..0000000
+Binary files a/Flowers/rose4.png and /dev/null differ
+diff --git a/Flowers/rosered.png b/Flowers/rosered.png
+deleted file mode 100644
+index 9e36ec3..0000000
+Binary files a/Flowers/rosered.png and /dev/null differ
+diff --git a/Flowers/yellowRose2.png b/Flowers/yellowRose2.png
+deleted file mode 100755
+index 58bbb37..0000000
+Binary files a/Flowers/yellowRose2.png and /dev/null differ
+diff --git a/Food/PIzza1.png b/Food/PIzza1.png
+deleted file mode 100644
+index 2825ecb..0000000
+Binary files a/Food/PIzza1.png and /dev/null differ
+diff --git a/Food/Watermelon2.png b/Food/Watermelon2.png
+deleted file mode 100644
+index 445ac9d..0000000
+Binary files a/Food/Watermelon2.png and /dev/null differ
+diff --git a/Food/Watermelon3.png b/Food/Watermelon3.png
+deleted file mode 100644
+index 99b18e4..0000000
+Binary files a/Food/Watermelon3.png and /dev/null differ
+diff --git a/Food/mushroom1.png b/Food/mushroom1.png
+deleted file mode 100644
+index 2a8dd28..0000000
+Binary files a/Food/mushroom1.png and /dev/null differ
+diff --git a/Food/mushroom2.png b/Food/mushroom2.png
+deleted file mode 100644
+index b14fd00..0000000
+Binary files a/Food/mushroom2.png and /dev/null differ
+diff --git a/Food/mushroom3.png b/Food/mushroom3.png
+deleted file mode 100644
+index 8a434af..0000000
+Binary files a/Food/mushroom3.png and /dev/null differ
+diff --git a/Food/mushroom4.png b/Food/mushroom4.png
+deleted file mode 100644
+index c287e90..0000000
+Binary files a/Food/mushroom4.png and /dev/null differ
+diff --git a/Food/mushroom5.png b/Food/mushroom5.png
+deleted file mode 100644
+index ccfcbc3..0000000
+Binary files a/Food/mushroom5.png and /dev/null differ
+diff --git a/Food/mushroom6.png b/Food/mushroom6.png
+deleted file mode 100644
+index ef6bd85..0000000
+Binary files a/Food/mushroom6.png and /dev/null differ
+diff --git a/Food/watermelon1.png b/Food/watermelon1.png
+deleted file mode 100644
+index 0bf97dc..0000000
+Binary files a/Food/watermelon1.png and /dev/null differ
+diff --git a/Marbles/Marble1.png b/Marbles/Marble1.png
+deleted file mode 100644
+index 00ddf3b..0000000
+Binary files a/Marbles/Marble1.png and /dev/null differ
+diff --git a/Marbles/marble2.png b/Marbles/marble2.png
+deleted file mode 100644
+index 9f66dad..0000000
+Binary files a/Marbles/marble2.png and /dev/null differ
+diff --git a/Marbles/marble3.png b/Marbles/marble3.png
+deleted file mode 100644
+index 58205c0..0000000
+Binary files a/Marbles/marble3.png and /dev/null differ
+diff --git a/Marbles/marble4.png b/Marbles/marble4.png
+deleted file mode 100644
+index 467543e..0000000
+Binary files a/Marbles/marble4.png and /dev/null differ
+diff --git a/MilkWeed/milkweedseed.png b/MilkWeed/milkweedseed.png
+deleted file mode 100755
+index f3c4619..0000000
+Binary files a/MilkWeed/milkweedseed.png and /dev/null differ
+diff --git a/RedHeartFlake/heart1.png b/RedHeartFlake/heart1.png
+deleted file mode 100755
+index e604458..0000000
+Binary files a/RedHeartFlake/heart1.png and /dev/null differ
+diff --git a/SnowFlakes/snow11.png b/SnowFlakes/snow11.png
+deleted file mode 100755
+index 95c602c..0000000
+Binary files a/SnowFlakes/snow11.png and /dev/null differ
+diff --git a/SnowFlakes/snow12.png b/SnowFlakes/snow12.png
+deleted file mode 100755
+index 52b936c..0000000
+Binary files a/SnowFlakes/snow12.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake1.png b/SnowFlakes/snowflake1.png
+deleted file mode 100755
+index b8e589d..0000000
+Binary files a/SnowFlakes/snowflake1.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake10.png b/SnowFlakes/snowflake10.png
+deleted file mode 100755
+index 492882d..0000000
+Binary files a/SnowFlakes/snowflake10.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake13.png b/SnowFlakes/snowflake13.png
+deleted file mode 100755
+index 186cfbb..0000000
+Binary files a/SnowFlakes/snowflake13.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake14.png b/SnowFlakes/snowflake14.png
+deleted file mode 100755
+index 9e258da..0000000
+Binary files a/SnowFlakes/snowflake14.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake15.png b/SnowFlakes/snowflake15.png
+deleted file mode 100755
+index ed1cd77..0000000
+Binary files a/SnowFlakes/snowflake15.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake2.png b/SnowFlakes/snowflake2.png
+deleted file mode 100755
+index 560f6b0..0000000
+Binary files a/SnowFlakes/snowflake2.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake3.png b/SnowFlakes/snowflake3.png
+deleted file mode 100755
+index 3a482ff..0000000
+Binary files a/SnowFlakes/snowflake3.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake4.png b/SnowFlakes/snowflake4.png
+deleted file mode 100755
+index 4921c2e..0000000
+Binary files a/SnowFlakes/snowflake4.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake5.png b/SnowFlakes/snowflake5.png
+deleted file mode 100755
+index 820a91f..0000000
+Binary files a/SnowFlakes/snowflake5.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake6.png b/SnowFlakes/snowflake6.png
+deleted file mode 100755
+index ae5e544..0000000
+Binary files a/SnowFlakes/snowflake6.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake8.png b/SnowFlakes/snowflake8.png
+deleted file mode 100755
+index 90a4e2c..0000000
+Binary files a/SnowFlakes/snowflake8.png and /dev/null differ
+diff --git a/SnowFlakes/snowflake9.png b/SnowFlakes/snowflake9.png
+deleted file mode 100755
+index b5371b9..0000000
+Binary files a/SnowFlakes/snowflake9.png and /dev/null differ
+diff --git a/SnowImages/BerylBarrels/BeryBarrel2.png b/SnowImages/BerylBarrels/BeryBarrel2.png
+new file mode 100644
+index 0000000..472f5d5
+Binary files /dev/null and b/SnowImages/BerylBarrels/BeryBarrel2.png differ
+diff --git a/SnowImages/BerylBarrels/BerylBarrel1.png b/SnowImages/BerylBarrels/BerylBarrel1.png
+new file mode 100644
+index 0000000..c15475b
+Binary files /dev/null and b/SnowImages/BerylBarrels/BerylBarrel1.png differ
+diff --git a/SnowImages/Bubbles/bluebubble.png b/SnowImages/Bubbles/bluebubble.png
+new file mode 100755
+index 0000000..0abd095
+Binary files /dev/null and b/SnowImages/Bubbles/bluebubble.png differ
+diff --git a/SnowImages/Bubbles/bubble1.png b/SnowImages/Bubbles/bubble1.png
+new file mode 100755
+index 0000000..d3d4b40
+Binary files /dev/null and b/SnowImages/Bubbles/bubble1.png differ
+diff --git a/SnowImages/Bubbles/bubble2.png b/SnowImages/Bubbles/bubble2.png
+new file mode 100755
+index 0000000..4c96b03
+Binary files /dev/null and b/SnowImages/Bubbles/bubble2.png differ
+diff --git a/SnowImages/Bubbles/bubble3.png b/SnowImages/Bubbles/bubble3.png
+new file mode 100755
+index 0000000..5da9ff0
+Binary files /dev/null and b/SnowImages/Bubbles/bubble3.png differ
+diff --git a/SnowImages/Bubbles/greenbubble.png b/SnowImages/Bubbles/greenbubble.png
+new file mode 100755
+index 0000000..f8f3e3c
+Binary files /dev/null and b/SnowImages/Bubbles/greenbubble.png differ
+diff --git a/SnowImages/Bubbles/redbubble.png b/SnowImages/Bubbles/redbubble.png
+new file mode 100755
+index 0000000..1061281
+Binary files /dev/null and b/SnowImages/Bubbles/redbubble.png differ
+diff --git a/SnowImages/Bubbles/yellowbubble.png b/SnowImages/Bubbles/yellowbubble.png
+new file mode 100755
+index 0000000..1ed84d3
+Binary files /dev/null and b/SnowImages/Bubbles/yellowbubble.png differ
+diff --git a/SnowImages/Clover/clover2.png b/SnowImages/Clover/clover2.png
+new file mode 100755
+index 0000000..5a69436
+Binary files /dev/null and b/SnowImages/Clover/clover2.png differ
+diff --git a/SnowImages/Clover/clover3.png b/SnowImages/Clover/clover3.png
+new file mode 100755
+index 0000000..f8989de
+Binary files /dev/null and b/SnowImages/Clover/clover3.png differ
+diff --git a/SnowImages/Clover/clover5.png b/SnowImages/Clover/clover5.png
+new file mode 100755
+index 0000000..775132c
+Binary files /dev/null and b/SnowImages/Clover/clover5.png differ
+diff --git a/SnowImages/Clover/clover6.png b/SnowImages/Clover/clover6.png
+new file mode 100755
+index 0000000..84facad
+Binary files /dev/null and b/SnowImages/Clover/clover6.png differ
+diff --git a/SnowImages/Coffee/Cup'oCoffee.png b/SnowImages/Coffee/Cup'oCoffee.png
+new file mode 100644
+index 0000000..8de6748
+Binary files /dev/null and b/SnowImages/Coffee/Cup'oCoffee.png differ
+diff --git a/SnowImages/Egg/EasterEgg.png b/SnowImages/Egg/EasterEgg.png
+new file mode 100755
+index 0000000..a8c2bc2
+Binary files /dev/null and b/SnowImages/Egg/EasterEgg.png differ
+diff --git a/SnowImages/FallLeafFlake/leaf1.png b/SnowImages/FallLeafFlake/leaf1.png
+new file mode 100755
+index 0000000..94ef595
+Binary files /dev/null and b/SnowImages/FallLeafFlake/leaf1.png differ
+diff --git a/SnowImages/FallLeafFlake/leaf2.png b/SnowImages/FallLeafFlake/leaf2.png
+new file mode 100755
+index 0000000..584c2b3
+Binary files /dev/null and b/SnowImages/FallLeafFlake/leaf2.png differ
+diff --git a/SnowImages/Flowers/PurplePansy.png b/SnowImages/Flowers/PurplePansy.png
+new file mode 100644
+index 0000000..d2b9803
+Binary files /dev/null and b/SnowImages/Flowers/PurplePansy.png differ
+diff --git a/SnowImages/Flowers/RedHibuscus.png b/SnowImages/Flowers/RedHibuscus.png
+new file mode 100644
+index 0000000..f7b7fd3
+Binary files /dev/null and b/SnowImages/Flowers/RedHibuscus.png differ
+diff --git a/SnowImages/Flowers/RedPansy.png b/SnowImages/Flowers/RedPansy.png
+new file mode 100644
+index 0000000..a129c8d
+Binary files /dev/null and b/SnowImages/Flowers/RedPansy.png differ
+diff --git a/SnowImages/Flowers/VanillaBlossom.png b/SnowImages/Flowers/VanillaBlossom.png
+new file mode 100644
+index 0000000..3d16a64
+Binary files /dev/null and b/SnowImages/Flowers/VanillaBlossom.png differ
+diff --git a/SnowImages/Flowers/VioletPansy.png b/SnowImages/Flowers/VioletPansy.png
+new file mode 100644
+index 0000000..28f8bf3
+Binary files /dev/null and b/SnowImages/Flowers/VioletPansy.png differ
+diff --git a/SnowImages/Flowers/YellowPansy.png b/SnowImages/Flowers/YellowPansy.png
+new file mode 100644
+index 0000000..60d0709
+Binary files /dev/null and b/SnowImages/Flowers/YellowPansy.png differ
+diff --git a/SnowImages/Flowers/daisy.png b/SnowImages/Flowers/daisy.png
+new file mode 100755
+index 0000000..15cd0b8
+Binary files /dev/null and b/SnowImages/Flowers/daisy.png differ
+diff --git a/SnowImages/Flowers/danelion.png b/SnowImages/Flowers/danelion.png
+new file mode 100755
+index 0000000..f044202
+Binary files /dev/null and b/SnowImages/Flowers/danelion.png differ
+diff --git a/SnowImages/Flowers/rose1.png b/SnowImages/Flowers/rose1.png
+new file mode 100755
+index 0000000..3afd483
+Binary files /dev/null and b/SnowImages/Flowers/rose1.png differ
+diff --git a/SnowImages/Flowers/rose4.png b/SnowImages/Flowers/rose4.png
+new file mode 100755
+index 0000000..31a5a72
+Binary files /dev/null and b/SnowImages/Flowers/rose4.png differ
+diff --git a/SnowImages/Flowers/rosered.png b/SnowImages/Flowers/rosered.png
+new file mode 100644
+index 0000000..9e36ec3
+Binary files /dev/null and b/SnowImages/Flowers/rosered.png differ
+diff --git a/SnowImages/Flowers/yellowRose2.png b/SnowImages/Flowers/yellowRose2.png
+new file mode 100755
+index 0000000..58bbb37
+Binary files /dev/null and b/SnowImages/Flowers/yellowRose2.png differ
+diff --git a/SnowImages/Food/PIzza1.png b/SnowImages/Food/PIzza1.png
+new file mode 100644
+index 0000000..2825ecb
+Binary files /dev/null and b/SnowImages/Food/PIzza1.png differ
+diff --git a/SnowImages/Food/Watermelon2.png b/SnowImages/Food/Watermelon2.png
+new file mode 100644
+index 0000000..445ac9d
+Binary files /dev/null and b/SnowImages/Food/Watermelon2.png differ
+diff --git a/SnowImages/Food/Watermelon3.png b/SnowImages/Food/Watermelon3.png
+new file mode 100644
+index 0000000..99b18e4
+Binary files /dev/null and b/SnowImages/Food/Watermelon3.png differ
+diff --git a/SnowImages/Food/mushroom1.png b/SnowImages/Food/mushroom1.png
+new file mode 100644
+index 0000000..2a8dd28
+Binary files /dev/null and b/SnowImages/Food/mushroom1.png differ
+diff --git a/SnowImages/Food/mushroom2.png b/SnowImages/Food/mushroom2.png
+new file mode 100644
+index 0000000..b14fd00
+Binary files /dev/null and b/SnowImages/Food/mushroom2.png differ
+diff --git a/SnowImages/Food/mushroom3.png b/SnowImages/Food/mushroom3.png
+new file mode 100644
+index 0000000..8a434af
+Binary files /dev/null and b/SnowImages/Food/mushroom3.png differ
+diff --git a/SnowImages/Food/mushroom4.png b/SnowImages/Food/mushroom4.png
+new file mode 100644
+index 0000000..c287e90
+Binary files /dev/null and b/SnowImages/Food/mushroom4.png differ
+diff --git a/SnowImages/Food/mushroom5.png b/SnowImages/Food/mushroom5.png
+new file mode 100644
+index 0000000..ccfcbc3
+Binary files /dev/null and b/SnowImages/Food/mushroom5.png differ
+diff --git a/SnowImages/Food/mushroom6.png b/SnowImages/Food/mushroom6.png
+new file mode 100644
+index 0000000..ef6bd85
+Binary files /dev/null and b/SnowImages/Food/mushroom6.png differ
+diff --git a/SnowImages/Food/watermelon1.png b/SnowImages/Food/watermelon1.png
+new file mode 100644
+index 0000000..0bf97dc
+Binary files /dev/null and b/SnowImages/Food/watermelon1.png differ
+diff --git a/SnowImages/Marbles/Marble1.png b/SnowImages/Marbles/Marble1.png
+new file mode 100644
+index 0000000..00ddf3b
+Binary files /dev/null and b/SnowImages/Marbles/Marble1.png differ
+diff --git a/SnowImages/Marbles/marble2.png b/SnowImages/Marbles/marble2.png
+new file mode 100644
+index 0000000..9f66dad
+Binary files /dev/null and b/SnowImages/Marbles/marble2.png differ
+diff --git a/SnowImages/Marbles/marble3.png b/SnowImages/Marbles/marble3.png
+new file mode 100644
+index 0000000..58205c0
+Binary files /dev/null and b/SnowImages/Marbles/marble3.png differ
+diff --git a/SnowImages/Marbles/marble4.png b/SnowImages/Marbles/marble4.png
+new file mode 100644
+index 0000000..467543e
+Binary files /dev/null and b/SnowImages/Marbles/marble4.png differ
+diff --git a/SnowImages/MilkWeed/milkweedseed.png b/SnowImages/MilkWeed/milkweedseed.png
+new file mode 100755
+index 0000000..f3c4619
+Binary files /dev/null and b/SnowImages/MilkWeed/milkweedseed.png differ
+diff --git a/SnowImages/RedHeartFlake/heart1.png b/SnowImages/RedHeartFlake/heart1.png
+new file mode 100755
+index 0000000..e604458
+Binary files /dev/null and b/SnowImages/RedHeartFlake/heart1.png differ
+diff --git a/SnowImages/SnowFlakes/snow11.png b/SnowImages/SnowFlakes/snow11.png
+new file mode 100755
+index 0000000..95c602c
+Binary files /dev/null and b/SnowImages/SnowFlakes/snow11.png differ
+diff --git a/SnowImages/SnowFlakes/snow12.png b/SnowImages/SnowFlakes/snow12.png
+new file mode 100755
+index 0000000..52b936c
+Binary files /dev/null and b/SnowImages/SnowFlakes/snow12.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake1.png b/SnowImages/SnowFlakes/snowflake1.png
+new file mode 100755
+index 0000000..b8e589d
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake1.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake10.png b/SnowImages/SnowFlakes/snowflake10.png
+new file mode 100755
+index 0000000..492882d
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake10.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake13.png b/SnowImages/SnowFlakes/snowflake13.png
+new file mode 100755
+index 0000000..186cfbb
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake13.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake14.png b/SnowImages/SnowFlakes/snowflake14.png
+new file mode 100755
+index 0000000..9e258da
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake14.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake15.png b/SnowImages/SnowFlakes/snowflake15.png
+new file mode 100755
+index 0000000..ed1cd77
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake15.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake2.png b/SnowImages/SnowFlakes/snowflake2.png
+new file mode 100755
+index 0000000..560f6b0
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake2.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake3.png b/SnowImages/SnowFlakes/snowflake3.png
+new file mode 100755
+index 0000000..3a482ff
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake3.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake4.png b/SnowImages/SnowFlakes/snowflake4.png
+new file mode 100755
+index 0000000..4921c2e
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake4.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake5.png b/SnowImages/SnowFlakes/snowflake5.png
+new file mode 100755
+index 0000000..820a91f
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake5.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake6.png b/SnowImages/SnowFlakes/snowflake6.png
+new file mode 100755
+index 0000000..ae5e544
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake6.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake8.png b/SnowImages/SnowFlakes/snowflake8.png
+new file mode 100755
+index 0000000..90a4e2c
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake8.png differ
+diff --git a/SnowImages/SnowFlakes/snowflake9.png b/SnowImages/SnowFlakes/snowflake9.png
+new file mode 100755
+index 0000000..b5371b9
+Binary files /dev/null and b/SnowImages/SnowFlakes/snowflake9.png differ
+diff --git a/SnowImages/UbuntuFlake/ubuntuFlake.png b/SnowImages/UbuntuFlake/ubuntuFlake.png
+new file mode 100755
+index 0000000..58bff0c
+Binary files /dev/null and b/SnowImages/UbuntuFlake/ubuntuFlake.png differ
+diff --git a/SnowImages/butterfly/butterfly.png b/SnowImages/butterfly/butterfly.png
+new file mode 100755
+index 0000000..350fc24
+Binary files /dev/null and b/SnowImages/butterfly/butterfly.png differ
+diff --git a/SnowImages/pinWheel/pinwheel.png b/SnowImages/pinWheel/pinwheel.png
+new file mode 100755
+index 0000000..05eeb6c
+Binary files /dev/null and b/SnowImages/pinWheel/pinwheel.png differ
+diff --git a/SnowImages/wreath/wreath1.png b/SnowImages/wreath/wreath1.png
+new file mode 100755
+index 0000000..e32cf5e
+Binary files /dev/null and b/SnowImages/wreath/wreath1.png differ
+diff --git a/UbuntuFlake/ubuntuFlake.png b/UbuntuFlake/ubuntuFlake.png
+deleted file mode 100755
+index 58bff0c..0000000
+Binary files a/UbuntuFlake/ubuntuFlake.png and /dev/null differ
+diff --git a/butterfly/butterfly.png b/butterfly/butterfly.png
+deleted file mode 100755
+index 350fc24..0000000
+Binary files a/butterfly/butterfly.png and /dev/null differ
+diff --git a/pinWheel/pinwheel.png b/pinWheel/pinwheel.png
+deleted file mode 100755
+index 05eeb6c..0000000
+Binary files a/pinWheel/pinwheel.png and /dev/null differ
+diff --git a/wreath/wreath1.png b/wreath/wreath1.png
+deleted file mode 100755
+index e32cf5e..0000000
+Binary files a/wreath/wreath1.png and /dev/null differ
+-- 
+cgit v1.1
+

@@ -1,0 +1,19 @@
+From 839f759f40caec3f137535204a8836d24e77fe47 Mon Sep 17 00:00:00 2001
+From: quinn <quinn>
+Date: Sun, 21 Jan 2007 14:40:08 +0000
+Subject: starting to organize beryl-extra-artwork
+
+---
+ Flowers/VanillaBlossom.png | Bin 16134 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 Flowers/VanillaBlossom.png
+
+(limited to 'Flowers/VanillaBlossom.png')
+
+diff --git a/Flowers/VanillaBlossom.png b/Flowers/VanillaBlossom.png
+deleted file mode 100644
+index 3d16a64..0000000
+Binary files a/Flowers/VanillaBlossom.png and /dev/null differ
+-- 
+cgit v1.1
+

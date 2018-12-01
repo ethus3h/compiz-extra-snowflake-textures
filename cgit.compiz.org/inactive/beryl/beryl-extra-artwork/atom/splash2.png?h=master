@@ -1,0 +1,45 @@
+<feed xmlns='http://www.w3.org/2005/Atom'>
+<title>inactive/beryl/beryl-extra-artwork/splash2.png, branch master</title>
+<subtitle>beryl-extra-artwork</subtitle>
+<link rel='alternate' type='text/html' href='http://cgit.compiz.org/inactive/beryl/beryl-extra-artwork/'/>
+<entry>
+<title>move splash images too</title>
+<updated>2007-01-21T14:41:30+00:00</updated>
+<author>
+<name>quinn</name>
+<email>quinn</email>
+</author>
+<published>2007-01-21T14:41:30+00:00</published>
+<link rel='alternate' type='text/html' href='http://cgit.compiz.org/inactive/beryl/beryl-extra-artwork/commit/?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'/>
+<id>68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d</id>
+<content type='text'>
+</content>
+<content type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<pre>
+</pre>
+</div>
+</content>
+</entry>
+<entry>
+<title>add beryl-extra-artwork, mostly snowflake images from coz_, and some splash background options too</title>
+<updated>2007-01-21T14:32:57+00:00</updated>
+<author>
+<name>quinn</name>
+<email>quinn</email>
+</author>
+<published>2007-01-21T14:32:57+00:00</published>
+<link rel='alternate' type='text/html' href='http://cgit.compiz.org/inactive/beryl/beryl-extra-artwork/commit/?id=cff368a245e8bf60bfca466d3a9a4c5eab9da1f4'/>
+<id>cff368a245e8bf60bfca466d3a9a4c5eab9da1f4</id>
+<content type='text'>
+This will eventually become a repository for all old artwork, artwork produced for but not used for a release, etc.
+</content>
+<content type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<pre>
+This will eventually become a repository for all old artwork, artwork produced for but not used for a release, etc.
+</pre>
+</div>
+</content>
+</entry>
+</feed>

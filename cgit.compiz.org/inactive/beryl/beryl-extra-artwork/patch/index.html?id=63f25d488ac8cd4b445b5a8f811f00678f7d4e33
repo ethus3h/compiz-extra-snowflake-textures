@@ -1,0 +1,164 @@
+From 63f25d488ac8cd4b445b5a8f811f00678f7d4e33 Mon Sep 17 00:00:00 2001
+From: Alex Heck <nesl247@beryl-project.org>
+Date: Sat, 17 Mar 2007 19:56:39 -0400
+Subject: Remove svn files
+
+---
+ SnowImages/dandelion seeds/.svn/entries            |  67 ---------------------
+ SnowImages/dandelion seeds/.svn/format             |   1 -
+ .../.svn/prop-base/Dandy1Seed.png.svn-base         |   9 ---
+ .../.svn/prop-base/DandySeeds.png.svn-base         |   9 ---
+ .../.svn/prop-base/dandy1Seed2.png.svn-base        |   9 ---
+ .../.svn/text-base/Dandy1Seed.png.svn-base         | Bin 5210 -> 0 bytes
+ .../.svn/text-base/DandySeeds.png.svn-base         | Bin 18302 -> 0 bytes
+ .../.svn/text-base/dandy1Seed2.png.svn-base        | Bin 10560 -> 0 bytes
+ 8 files changed, 95 deletions(-)
+ delete mode 100644 SnowImages/dandelion seeds/.svn/entries
+ delete mode 100644 SnowImages/dandelion seeds/.svn/format
+ delete mode 100644 SnowImages/dandelion seeds/.svn/prop-base/Dandy1Seed.png.svn-base
+ delete mode 100644 SnowImages/dandelion seeds/.svn/prop-base/DandySeeds.png.svn-base
+ delete mode 100644 SnowImages/dandelion seeds/.svn/prop-base/dandy1Seed2.png.svn-base
+ delete mode 100644 SnowImages/dandelion seeds/.svn/text-base/Dandy1Seed.png.svn-base
+ delete mode 100644 SnowImages/dandelion seeds/.svn/text-base/DandySeeds.png.svn-base
+ delete mode 100644 SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base
+
+diff --git a/SnowImages/dandelion seeds/.svn/entries b/SnowImages/dandelion seeds/.svn/entries
+deleted file mode 100644
+index 418b8ad..0000000
+--- a/SnowImages/dandelion seeds/.svn/entries	
++++ /dev/null
+@@ -1,67 +0,0 @@
+-8
+-
+-dir
+-4504
+-svn+ssh://devsvn.beryl-project.org/beryl/trunk/beryl-extra-artwork/SnowImages/dandelion%20seeds
+-svn+ssh://devsvn.beryl-project.org/beryl
+-
+-
+-
+-2007-01-21T14:40:26.184320Z
+-2926
+-quinn
+-
+-
+-svn:special svn:externals svn:needs-lock
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-d7aaf104-2d23-0410-ae22-9d23157bf5a3
+-
+-Dandy1Seed.png
+-file
+-
+-
+-
+-
+-2007-01-23T21:55:10.000000Z
+-f442280348b977ed837491a6a9238e97
+-2007-01-21T14:32:57.714628Z
+-2924
+-quinn
+-has-props
+-
+-DandySeeds.png
+-file
+-
+-
+-
+-
+-2007-01-23T21:55:10.000000Z
+-8d00cf4b84ff1d6e6c36520924dac52b
+-2007-01-21T14:32:57.714628Z
+-2924
+-quinn
+-has-props
+-
+-dandy1Seed2.png
+-file
+-
+-
+-
+-
+-2007-01-23T21:55:10.000000Z
+-f7e6ce815dd244d3dc64f6b9cc3a491c
+-2007-01-21T14:32:57.714628Z
+-2924
+-quinn
+-has-props
+-
+diff --git a/SnowImages/dandelion seeds/.svn/format b/SnowImages/dandelion seeds/.svn/format
+deleted file mode 100644
+index 45a4fb7..0000000
+--- a/SnowImages/dandelion seeds/.svn/format	
++++ /dev/null
+@@ -1 +0,0 @@
+-8
+diff --git a/SnowImages/dandelion seeds/.svn/prop-base/Dandy1Seed.png.svn-base b/SnowImages/dandelion seeds/.svn/prop-base/Dandy1Seed.png.svn-base
+deleted file mode 100644
+index dbc918b..0000000
+--- a/SnowImages/dandelion seeds/.svn/prop-base/Dandy1Seed.png.svn-base	
++++ /dev/null
+@@ -1,9 +0,0 @@
+-K 14
+-svn:executable
+-V 1
+-*
+-K 13
+-svn:mime-type
+-V 24
+-application/octet-stream
+-END
+diff --git a/SnowImages/dandelion seeds/.svn/prop-base/DandySeeds.png.svn-base b/SnowImages/dandelion seeds/.svn/prop-base/DandySeeds.png.svn-base
+deleted file mode 100644
+index dbc918b..0000000
+--- a/SnowImages/dandelion seeds/.svn/prop-base/DandySeeds.png.svn-base	
++++ /dev/null
+@@ -1,9 +0,0 @@
+-K 14
+-svn:executable
+-V 1
+-*
+-K 13
+-svn:mime-type
+-V 24
+-application/octet-stream
+-END
+diff --git a/SnowImages/dandelion seeds/.svn/prop-base/dandy1Seed2.png.svn-base b/SnowImages/dandelion seeds/.svn/prop-base/dandy1Seed2.png.svn-base
+deleted file mode 100644
+index dbc918b..0000000
+--- a/SnowImages/dandelion seeds/.svn/prop-base/dandy1Seed2.png.svn-base	
++++ /dev/null
+@@ -1,9 +0,0 @@
+-K 14
+-svn:executable
+-V 1
+-*
+-K 13
+-svn:mime-type
+-V 24
+-application/octet-stream
+-END
+diff --git a/SnowImages/dandelion seeds/.svn/text-base/Dandy1Seed.png.svn-base b/SnowImages/dandelion seeds/.svn/text-base/Dandy1Seed.png.svn-base
+deleted file mode 100644
+index a03df91..0000000
+Binary files a/SnowImages/dandelion seeds/.svn/text-base/Dandy1Seed.png.svn-base and /dev/null differ
+diff --git a/SnowImages/dandelion seeds/.svn/text-base/DandySeeds.png.svn-base b/SnowImages/dandelion seeds/.svn/text-base/DandySeeds.png.svn-base
+deleted file mode 100644
+index d029aca..0000000
+Binary files a/SnowImages/dandelion seeds/.svn/text-base/DandySeeds.png.svn-base and /dev/null differ
+diff --git a/SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base b/SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base
+deleted file mode 100644
+index d4e2ade..0000000
+Binary files a/SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base and /dev/null differ
+-- 
+cgit v1.1
+

@@ -1,0 +1,19 @@
+From 68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d Mon Sep 17 00:00:00 2001
+From: quinn <quinn>
+Date: Sun, 21 Jan 2007 14:41:30 +0000
+Subject: move splash images too
+
+---
+ Splash/coz_/VictorVasarely2.png | Bin 0 -> 306157 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100755 Splash/coz_/VictorVasarely2.png
+
+(limited to 'Splash/coz_/VictorVasarely2.png')
+
+diff --git a/Splash/coz_/VictorVasarely2.png b/Splash/coz_/VictorVasarely2.png
+new file mode 100755
+index 0000000..2a56db2
+Binary files /dev/null and b/Splash/coz_/VictorVasarely2.png differ
+-- 
+cgit v1.1
+

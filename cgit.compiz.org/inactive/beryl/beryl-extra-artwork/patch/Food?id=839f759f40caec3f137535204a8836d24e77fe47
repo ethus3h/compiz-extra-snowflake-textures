@@ -1,0 +1,73 @@
+From 839f759f40caec3f137535204a8836d24e77fe47 Mon Sep 17 00:00:00 2001
+From: quinn <quinn>
+Date: Sun, 21 Jan 2007 14:40:08 +0000
+Subject: starting to organize beryl-extra-artwork
+
+---
+ Food/PIzza1.png      | Bin 9496 -> 0 bytes
+ Food/Watermelon2.png | Bin 8320 -> 0 bytes
+ Food/Watermelon3.png | Bin 9750 -> 0 bytes
+ Food/mushroom1.png   | Bin 14429 -> 0 bytes
+ Food/mushroom2.png   | Bin 21837 -> 0 bytes
+ Food/mushroom3.png   | Bin 20090 -> 0 bytes
+ Food/mushroom4.png   | Bin 24374 -> 0 bytes
+ Food/mushroom5.png   | Bin 20013 -> 0 bytes
+ Food/mushroom6.png   | Bin 17021 -> 0 bytes
+ Food/watermelon1.png | Bin 28884 -> 0 bytes
+ 10 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 Food/PIzza1.png
+ delete mode 100644 Food/Watermelon2.png
+ delete mode 100644 Food/Watermelon3.png
+ delete mode 100644 Food/mushroom1.png
+ delete mode 100644 Food/mushroom2.png
+ delete mode 100644 Food/mushroom3.png
+ delete mode 100644 Food/mushroom4.png
+ delete mode 100644 Food/mushroom5.png
+ delete mode 100644 Food/mushroom6.png
+ delete mode 100644 Food/watermelon1.png
+
+(limited to 'Food')
+
+diff --git a/Food/PIzza1.png b/Food/PIzza1.png
+deleted file mode 100644
+index 2825ecb..0000000
+Binary files a/Food/PIzza1.png and /dev/null differ
+diff --git a/Food/Watermelon2.png b/Food/Watermelon2.png
+deleted file mode 100644
+index 445ac9d..0000000
+Binary files a/Food/Watermelon2.png and /dev/null differ
+diff --git a/Food/Watermelon3.png b/Food/Watermelon3.png
+deleted file mode 100644
+index 99b18e4..0000000
+Binary files a/Food/Watermelon3.png and /dev/null differ
+diff --git a/Food/mushroom1.png b/Food/mushroom1.png
+deleted file mode 100644
+index 2a8dd28..0000000
+Binary files a/Food/mushroom1.png and /dev/null differ
+diff --git a/Food/mushroom2.png b/Food/mushroom2.png
+deleted file mode 100644
+index b14fd00..0000000
+Binary files a/Food/mushroom2.png and /dev/null differ
+diff --git a/Food/mushroom3.png b/Food/mushroom3.png
+deleted file mode 100644
+index 8a434af..0000000
+Binary files a/Food/mushroom3.png and /dev/null differ
+diff --git a/Food/mushroom4.png b/Food/mushroom4.png
+deleted file mode 100644
+index c287e90..0000000
+Binary files a/Food/mushroom4.png and /dev/null differ
+diff --git a/Food/mushroom5.png b/Food/mushroom5.png
+deleted file mode 100644
+index ccfcbc3..0000000
+Binary files a/Food/mushroom5.png and /dev/null differ
+diff --git a/Food/mushroom6.png b/Food/mushroom6.png
+deleted file mode 100644
+index ef6bd85..0000000
+Binary files a/Food/mushroom6.png and /dev/null differ
+diff --git a/Food/watermelon1.png b/Food/watermelon1.png
+deleted file mode 100644
+index 0bf97dc..0000000
+Binary files a/Food/watermelon1.png and /dev/null differ
+-- 
+cgit v1.1
+

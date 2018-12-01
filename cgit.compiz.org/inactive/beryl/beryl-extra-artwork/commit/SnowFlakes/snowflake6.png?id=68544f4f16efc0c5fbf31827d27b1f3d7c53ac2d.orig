@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<title>inactive/beryl/beryl-extra-artwork - beryl-extra-artwork</title>
+<meta name='generator' content='cgit v1.1'/>
+<meta name='robots' content='index, nofollow'/>
+<link rel='stylesheet' type='text/css' href='/style/cgit.css'/>
+<link rel='shortcut icon' href='/favicon.ico'/>
+<link rel='alternate' title='Atom feed' href='http://cgit.compiz.org/inactive/beryl/beryl-extra-artwork/atom/SnowFlakes/snowflake6.png?h=master' type='application/atom+xml'/>
+<link rel='vcs-git' href='git://anongit.compiz.org/inactive/beryl/beryl-extra-artwork' title='inactive/beryl/beryl-extra-artwork Git repository'/>
+<link rel='vcs-git' href='ssh://git.compiz.org/git/inactive/beryl/beryl-extra-artwork' title='inactive/beryl/beryl-extra-artwork Git repository'/>
+</head>
+<body>
+<div id='cgit'><table id='header'>
+<tr>
+<td class='logo' rowspan='2'><a href='http://cgit.compiz.org/'><img src='/style/logo.png' alt='cgit logo'/></a></td>
+<td class='main'><a href='/'>index</a> : <a title='inactive/beryl/beryl-extra-artwork' href='/inactive/beryl/beryl-extra-artwork/'>inactive/beryl/beryl-extra-artwork</a></td><td class='form'><form method='get'>
+<input type='hidden' name='id' value='68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'/><select name='h' onchange='this.form.submit();'>
+<option value='master' selected='selected'>master</option>
+</select> <input type='submit' value='switch'/></form></td></tr>
+<tr><td class='sub'>beryl-extra-artwork</td><td class='sub right'>beryl</td></tr></table>
+<table class='tabs'><tr><td>
+<a href='/inactive/beryl/beryl-extra-artwork/'>summary</a><a href='/inactive/beryl/beryl-extra-artwork/refs/?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>refs</a><a href='/inactive/beryl/beryl-extra-artwork/log/SnowFlakes/snowflake6.png'>log</a><a href='/inactive/beryl/beryl-extra-artwork/tree/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>tree</a><a class='active' href='/inactive/beryl/beryl-extra-artwork/commit/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>commit</a><a href='/inactive/beryl/beryl-extra-artwork/diff/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>diff</a></td><td class='form'><form class='right' method='get' action='/inactive/beryl/beryl-extra-artwork/log/SnowFlakes/snowflake6.png'>
+<input type='hidden' name='id' value='68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'/><select name='qt'>
+<option value='grep'>log msg</option>
+<option value='author'>author</option>
+<option value='committer'>committer</option>
+<option value='range'>range</option>
+</select>
+<input class='txt' type='text' size='10' name='q' value=''/>
+<input type='submit' value='search'/>
+</form>
+</td></tr></table>
+<div class='path'>path: <a href='/inactive/beryl/beryl-extra-artwork/commit/?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>root</a>/<a href='/inactive/beryl/beryl-extra-artwork/commit/SnowFlakes?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>SnowFlakes</a>/<a href='/inactive/beryl/beryl-extra-artwork/commit/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>snowflake6.png</a></div><div class='content'><div class='cgit-panel'><b>diff options</b><form method='get'><input type='hidden' name='id' value='68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'/><table><tr><td colspan='2'/></tr><tr><td class='label'>context:</td><td class='ctrl'><select name='context' onchange='this.form.submit();'><option value='1'>1</option><option value='2'>2</option><option value='3' selected='selected'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option><option value='15'>15</option><option value='20'>20</option><option value='25'>25</option><option value='30'>30</option><option value='35'>35</option><option value='40'>40</option></select></td></tr><tr><td class='label'>space:</td><td class='ctrl'><select name='ignorews' onchange='this.form.submit();'><option value='0' selected='selected'>include</option><option value='1'>ignore</option></select></td></tr><tr><td class='label'>mode:</td><td class='ctrl'><select name='dt' onchange='this.form.submit();'><option value='0' selected='selected'>unified</option><option value='1'>ssdiff</option><option value='2'>stat only</option></select></td></tr><tr><td/><td class='ctrl'><noscript><input type='submit' value='reload'/></noscript></td></tr></table></form></div><table summary='commit info' class='commit-info'>
+<tr><th>author</th><td>quinn &lt;quinn&gt;</td><td class='right'>2007-01-21 14:41:30 +0000</td></tr>
+<tr><th>committer</th><td>quinn &lt;quinn&gt;</td><td class='right'>2007-01-21 14:41:30 +0000</td></tr>
+<tr><th>commit</th><td colspan='2' class='sha1'><a href='/inactive/beryl/beryl-extra-artwork/commit/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d</a> (<a href='/inactive/beryl/beryl-extra-artwork/patch/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>patch</a>)</td></tr>
+<tr><th>tree</th><td colspan='2' class='sha1'><a href='/inactive/beryl/beryl-extra-artwork/tree/?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>ca28270b94f26fbe4c899bcd5ba82e2eca769304</a> /<a href='/inactive/beryl/beryl-extra-artwork/tree/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>SnowFlakes/snowflake6.png</a></td></tr>
+<tr><th>parent</th><td colspan='2' class='sha1'><a href='/inactive/beryl/beryl-extra-artwork/commit/SnowFlakes/snowflake6.png?id=01c7b6227b2ae27adc306f7e230c04b8fd7fc368'>01c7b6227b2ae27adc306f7e230c04b8fd7fc368</a> (<a href='/inactive/beryl/beryl-extra-artwork/diff/SnowFlakes/snowflake6.png?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d&amp;id2=01c7b6227b2ae27adc306f7e230c04b8fd7fc368'>diff</a>)</td></tr><tr><th>download</th><td colspan='2' class='sha1'><a href='/inactive/beryl/beryl-extra-artwork/snapshot/beryl-extra-artwork-68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d.tar.gz'>beryl-extra-artwork-68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d.tar.gz</a><br/><a href='/inactive/beryl/beryl-extra-artwork/snapshot/beryl-extra-artwork-68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d.tar.bz2'>beryl-extra-artwork-68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d.tar.bz2</a><br/></td></tr></table>
+<div class='commit-subject'>move splash images too</div><div class='commit-msg'></div><div class='diffstat-header'><a href='/inactive/beryl/beryl-extra-artwork/diff/?id=68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d'>Diffstat</a> (limited to 'SnowFlakes/snowflake6.png')</div><table summary='diffstat' class='diffstat'></table><div class='diffstat-summary'>0 files changed, 0 insertions, 0 deletions</div><table summary='diff' class='diff'><tr><td></td></tr></table></div> <!-- class=content -->
+<div class='footer'>generated by <a href='https://git.zx2c4.com/cgit/about/'>cgit v1.1</a> at 2018-12-01 04:23:20 +0000</div>
+</div> <!-- id=cgit -->
+</body>
+</html>

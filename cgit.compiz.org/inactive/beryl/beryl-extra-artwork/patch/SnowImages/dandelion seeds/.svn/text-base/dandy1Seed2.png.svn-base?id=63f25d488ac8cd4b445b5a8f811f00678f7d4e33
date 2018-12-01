@@ -1,0 +1,19 @@
+From 63f25d488ac8cd4b445b5a8f811f00678f7d4e33 Mon Sep 17 00:00:00 2001
+From: Alex Heck <nesl247@beryl-project.org>
+Date: Sat, 17 Mar 2007 19:56:39 -0400
+Subject: Remove svn files
+
+---
+ .../.svn/text-base/dandy1Seed2.png.svn-base             | Bin 10560 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base
+
+(limited to 'SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base')
+
+diff --git a/SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base b/SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base
+deleted file mode 100644
+index d4e2ade..0000000
+Binary files a/SnowImages/dandelion seeds/.svn/text-base/dandy1Seed2.png.svn-base and /dev/null differ
+-- 
+cgit v1.1
+

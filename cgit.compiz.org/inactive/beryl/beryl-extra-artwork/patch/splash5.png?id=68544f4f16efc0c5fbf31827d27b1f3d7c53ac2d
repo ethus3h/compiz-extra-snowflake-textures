@@ -1,0 +1,19 @@
+From 68544f4f16efc0c5fbf31827d27b1f3d7c53ac2d Mon Sep 17 00:00:00 2001
+From: quinn <quinn>
+Date: Sun, 21 Jan 2007 14:41:30 +0000
+Subject: move splash images too
+
+---
+ splash5.png | Bin 214429 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100755 splash5.png
+
+(limited to 'splash5.png')
+
+diff --git a/splash5.png b/splash5.png
+deleted file mode 100755
+index a76e94e..0000000
+Binary files a/splash5.png and /dev/null differ
+-- 
+cgit v1.1
+
